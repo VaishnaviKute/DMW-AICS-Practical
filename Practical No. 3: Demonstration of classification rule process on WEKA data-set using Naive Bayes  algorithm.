@@ -1,0 +1,28 @@
+@relation employee
+@attribute empid numeric
+@attribute name {bhakti ,pooja,shraddha,aakanksha,vaishnavi}
+@attribute salary numeric
+@attribute gender {male,female}
+@attribute contactno numeric
+@attribute hire date dd-mm-yy 
+@attribute departid numeric
+@attribute email string
+@attribute birthdate date dd-mm-yy 
+@attribute address string
+@attribute designation string
+@data 
+1,bhakti,45000,female,9561653901,12-01-23,15,bb123@gmail.com,12-11-98,pune,ceo 
+2,pooja,40000,female,6845997552,09-09-22,12,pwa123@gmail.com,02-11-00,majalgoan,developer 
+3,aakanksha,31000,female,6765327462,23-01-23,14,pede3@gmail.com,01-01-98,jalgoan,executive
+4,shraddha,50000,female,23429824067,12-06-23,2,shra11123@gmail.com,01-11-99,mumbai,tester 
+5,bhakti,45000,female,6579307869,13-05-22,6,bb4123@gmail.com,05-06-96,satara,developer 
+6,vaishnavi,50000,female,9675930382,19-09-23,8,vaishh123@gmail.com,06-06-97,lasalgoan,president 
+7,bhakti,35000,female,5733856957,02-11-13,9,bhaktu123@gmail.com,07-08-94,malegaon,ceo 
+8,pooja,25000,female,4399307869,10-05-23,11,bbb123@gmail.com,05-05-93,sambhajinagar,developer 
+9,pooja,40000,female,940987406,12-05-22,22,bagal123@gmail.com,07-06-99,nagar,tester 
+10,aakanksha,31000,female,2429327462,23-05-11,7,akku123@gmail.com,03-04-96,lasalgoan,executive ve
+11,vaishnavi,25000,female,5423856957,08-12-23,9,vkute123@gmail.com,07-10-90,nashik,tester 
+12,shraddha,35000,female,2449327462,23-01-13,3,shradhha23@gmail.com,10-10-92,satara,developer 
+13,bhakti,20000,female,4865930382,16-07-18,2,bhaktub123@gmail.com,05-10-90,pune,tester 
+14,shraddha,40000,female,7657565564,10-08-17,16,sau123@gmail.com,12-12-88,sambhajinagar,developer 
+15,pooja,45000,female,76393257858,02-07-23,18,wagh123@gmail.com,11-10-00,jalgaon,developer
